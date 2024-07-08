@@ -1,0 +1,142 @@
+.header{
+    display: flex;
+}
+
+.span{
+    color: brown;
+}
+.nav{
+    margin-top:20%;
+}
+.body{
+    margin-left:20%;
+}
+.h1{
+    font-family: "Oswald", sans-serif;
+      font-style: normal;
+}
+.h5{
+    margin-left:1%;
+    font-size:100%;
+    font-style:Italic;
+    color:white;
+    background-color:black;
+    width:25%;
+    padding:1%;
+}
+.logo2{
+   margin-left:60%;
+   margin-top:-20%;
+}
+.adresse{
+    margin-top:10%;
+    margin-left:15%;
+}
+.lieu{
+    margin-left:29%; 
+    border-bottom:solid  #EB5353;
+    width:17%;
+    font-weight:bold;
+}
+.yummy3{ margin-left:10%;}
+.yummy1{ margin-left:6%;}
+.yummy2{ margin-left:7%;}
+.rues{
+    display:flex;
+    margin-left:19%;
+    gap:13%;
+    margin-top:-1%
+}
+.rue{
+    display:flex;
+    margin-left:19%;
+    gap:5%;
+    margin-top:-3%;
+    font-size:100%;
+    font-family: "Wittgenstein", serif;
+}
+.commande{
+   text-align:center;
+   font-family: "Outfit", sans-serif;
+    background-color:#EB5353;
+    color:white;
+    padding:1%;
+    margin-left:-10%;
+}
+.cmd{
+    background-color:black;
+    padding:1%;
+    width:19%;
+    margin-left:40%;
+}
+h3{
+    border-bottom:solid  #EB5353;
+    text-align:center;
+    width:25%;
+    margin-left:30%;   
+}
+.savoir{ text-align:center;font-family: "Roboto", sans-serif;}
+.net{
+    width:55%;
+    font-family: "Roboto", sans-serif;
+}
+.yummy4{
+    background-color:white;
+    border-top: 3px black solid;
+    border-right: 3px white solid;
+    border-bottom: 3px white solid;
+    border-left: 3px white solid
+}
+.yummy6{
+   margin-left:6%
+    
+}
+.yummy5{
+ margin-left:5%  
+    
+}
+.nouilles{
+   align-items:center;
+    display:flex;
+    margin-left:30%
+}
+.group2{
+    margin-left:30%;
+    padding:2%;
+}
+.yummy7{
+margin-left: -3%;
+}
+.yummy8{
+    margin-left:4%;
+}
+.yummy9{
+    margin-left:7%;
+}
+.contact{
+    font-family: "Roboto", sans-serif;
+   text-align:center;
+   border-bottom:solid  #EB5353;
+}
+.site{
+   font-weight:bolder;
+   font-family: "Oswald", sans-serif;
+}
+.kestion{
+    text-align:center;
+}
+.footer{
+    background-color:black;
+    text-align:end;
+    padding:5%;
+}
+.body1{
+    background-color:#F3F3F3;
+    max-width: 768px;
+}
+.accueil{
+    margin-top:5%;
+}
+.accueil1{
+    border-bottom:solid  #EB5353;
+}
